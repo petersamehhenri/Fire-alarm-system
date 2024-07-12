@@ -1,0 +1,13 @@
+
+
+#ifndef ULTRASONIC__CFG_H_
+#define ULTRASONIC__CFG_H_
+
+#define ULTRASONIC_1_TR		PINC0
+#define ULTRASONIC_2_TR		PINC1
+#define ULTRASONIC_3_TR		PINC2
+#define ULTRASONIC_4_TR		PINC3
+
+
+
+#endif /* ULTRASONIC__CFG_H_ */
